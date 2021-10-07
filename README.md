@@ -1,4 +1,4 @@
-# Plugin_OverhangClimbing
+# Plugin_FreeClimbing
 Source code of the freeclimbing / overhang climbing TRNG plugin for the Tomb Raider Level Editor (TRLE).
 
 Note: contains only relevant source code files. Merge with a standard new plugin folder (plugin_trng_start_vc2010_sources) from the TRNG plugin SDK: http://www.trlevelmanager.eu/plugin_sdk.htm
